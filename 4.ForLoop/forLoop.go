@@ -26,10 +26,15 @@ import "fmt"
 // 	}
 // }
 
-//range 
-func main (){
-	for x:=range 10 {
-		fmt.Println(x)
+// range 
+// func main (){
+// 	for x:=range 10 {
+// 		fmt.Println(x)
 
-	}
-}
+// 	}
+// }
+
+
+
+
+
